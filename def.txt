@@ -6,3 +6,5 @@ Hi i am txt file and i dance.
 I store text.
 
 What do you store ?
+
+I dont want to know.
