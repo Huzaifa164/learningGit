@@ -2,3 +2,7 @@ Hi i am txt file.
 I store text.
 
 Hello hi 
+Hi i am txt file and i dance.
+I store text.
+
+What do you store ?
