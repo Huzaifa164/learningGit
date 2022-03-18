@@ -1,2 +1,4 @@
-Hi i am txt file and i dance.
+Hi i am txt file.
 I store text.
+
+Hello hi 
